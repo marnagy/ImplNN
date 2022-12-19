@@ -2,3 +2,5 @@
 *.pdf
 venv
 inputs_linart
+transformed_imgs
+tiles_inputs
